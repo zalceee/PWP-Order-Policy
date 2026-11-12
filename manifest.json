@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "PWP Control",
+  "version": "1.0",
+  "description": "Control PWP Buy purchase gift for 60pesos and pick preffered bag and card designs",
+  "content_scripts": [
+    {
+      "matches": [
+        "http://hbu-pos:8080/*"
+      ],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
