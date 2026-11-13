@@ -24,4 +24,4 @@
 
 | Download | Version | Description |
 | :-------:| :------:| :----------:|
-|[![Static Badge](https://img.shields.io/badge/Buy2-v1.0-green?labelColor=black)](https://github.com/zalceee/PWP-Order-Policy/archive/refs/tags/v1.0.zip) | v1.0 | Control PWP Buy purchase gift for 60pesos and pick preffered bag and card designs |
+|[![Static Badge](https://img.shields.io/badge/PWP-v1.0-green?labelColor=black)](https://github.com/zalceee/PWP-Order-Policy/archive/refs/tags/v1.0.zip) | v1.0 | Control PWP purchase gift for 60pesos and pick preffered bag and card designs |
